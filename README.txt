@@ -1,0 +1,1 @@
+This is a Bukkit Plugin that prevents players from farming using pistons.
